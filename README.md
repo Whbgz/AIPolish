@@ -1,13 +1,13 @@
 # AIPolish - Typecho AI 一键润色插件
-
 AIPolish 是一款为 Typecho 博客系统打造的写作辅助插件。它可以直接嵌入 Typecho 的文章和页面编辑器，提供正文一键润色、标题润色，以及根据正文生成标题等功能。
 
 写这个插件的初衷，是想给个人博主一个顺手好用的写作辅助工具。通过内置的去 AI 腔提示词和历史文风学习机制，润色后的文字能尽量保留博主自己的写作习惯，不会写出来一股套路味。
 
 [Github项目链接][1] https://github.com/Whbgz/AIPolish
 方便的话给我点个Star~
+[博客文章链接][2] https://www.baiboke.cn/archives/161/
 
-![image.png][2]
+![image.png][3]
 
 
 ---
@@ -61,7 +61,7 @@ AIPolish 兼容所有遵循 OpenAI 标准的 API 接口（如 OpenAI、DeepSeek�
 
 ## 注意事项
 
-1. **Markdown 格式保护**：默认的系统提示词经过了细致调优，能保证文章里的图片标记（如 `![image.png][3]` 这种形式）、链接、加粗、代码块等 Markdown 标记不会被 AI 改动或删掉。
+1. **Markdown 格式保护**：默认的系统提示词经过了细致调优，能保证文章里的图片标记（如 `![image.png][4]` 这种形式）、链接、加粗、代码块等 Markdown 标记不会被 AI 改动或删掉。
 2. **局部润色**：在编辑器里，如果鼠标选中了部分文字，点“AI 一键润色”就只润色选中的那段；如果没选中任何内容，则默认对整篇文章进行润色。
 
 ---
@@ -75,5 +75,6 @@ AIPolish 兼容所有遵循 OpenAI 标准的 API 接口（如 OpenAI、DeepSeek�
 
 
   [1]: https://github.com/Whbgz/AIPolish
-  [2]: https://www.baiboke.cn/usr/uploads/2026/05/236601820.png
+  [2]: https://www.baiboke.cn/archives/161/
   [3]: https://www.baiboke.cn/usr/uploads/2026/05/236601820.png
+  [4]: https://www.baiboke.cn/usr/uploads/2026/05/236601820.png

@@ -5,6 +5,7 @@ AIPolish 是一款为 Typecho 博客系统打造的写作辅助插件。它可�
 
 [Github项目链接][1] https://github.com/Whbgz/AIPolish
 方便的话给我点个Star~
+
 [博客文章链接][2] https://www.baiboke.cn/archives/161/
 
 ![image.png][3]
